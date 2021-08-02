@@ -1,0 +1,2 @@
+Testes funcionais focam em desenvolvimento de alto nível e ajudam a construir aplicações com as funcionalidades corretas.
+Por sua vez, testes de unidade focam no desenvolvimento de baixo nível e ajudam a escrever código limpo e sem bug.
