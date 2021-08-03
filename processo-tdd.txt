@@ -1,0 +1,5 @@
+Ao utilizar testes funcionais juntos com os de unidade, o processo TDD ocorre em cada um deles. 
+Ou seja, é escrito testes para o teste funcional ou de unidade, verifica se passa, se escreve 
+código mínimo e, se necessário, refatora. Quando se tem os dois testes ao mesmo tempo, quando o
+teste funcional não passa, se vai para o teste de unidade, que é de mais baixo nível, repetindo 
+todo ciclo TDD, até que ele seja satisfeito e então se volte para o ciclo do teste funcional.
